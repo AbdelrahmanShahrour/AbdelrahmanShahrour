@@ -1,3 +1,8 @@
+<p align="center">
+
+   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+  
+</p>
 <h1 align="center">Hi 👋, I'm Abdalrahman Shahrour</h1>
 <h3 align="center">A passionate Data Scientist from Jordan</h3>
 
