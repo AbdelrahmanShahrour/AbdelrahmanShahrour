@@ -11,10 +11,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Student;Junior+Data+Scientist;Expert+on+Kaggle;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-   ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/competition/light)
-   ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/dataset/light)
-   ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/notebook/light)
-   ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/discussion/light)
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abdalrahmanshahrour/discussion/light" />
+</p>
 
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/abdalrahmanshahrour](https://www.kaggle.com/abdalrahmanshahrour)
