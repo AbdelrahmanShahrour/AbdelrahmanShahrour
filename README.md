@@ -1,5 +1,5 @@
 ### It's Abdalrahman Shahrour, 
-### AI Engineer from `jordan`, 
+### AI Engineer and Backend Dev from `jordan`, 
 ### My vision and my goal is make data speak `Arabic` as `native`
 
 > abdalrahman_shahrour@outlook.com
